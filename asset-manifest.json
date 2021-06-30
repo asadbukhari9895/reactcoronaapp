@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactcoronaapp/static/css/main.66298ed0.chunk.css",
+    "main.js": "/reactcoronaapp/static/js/main.f8945795.chunk.js",
+    "main.js.map": "/reactcoronaapp/static/js/main.f8945795.chunk.js.map",
+    "runtime-main.js": "/reactcoronaapp/static/js/runtime-main.0b00e73e.js",
+    "runtime-main.js.map": "/reactcoronaapp/static/js/runtime-main.0b00e73e.js.map",
+    "static/js/2.1a6b6f3e.chunk.js": "/reactcoronaapp/static/js/2.1a6b6f3e.chunk.js",
+    "static/js/2.1a6b6f3e.chunk.js.map": "/reactcoronaapp/static/js/2.1a6b6f3e.chunk.js.map",
+    "index.html": "/reactcoronaapp/index.html",
+    "static/css/main.66298ed0.chunk.css.map": "/reactcoronaapp/static/css/main.66298ed0.chunk.css.map",
+    "static/js/2.1a6b6f3e.chunk.js.LICENSE.txt": "/reactcoronaapp/static/js/2.1a6b6f3e.chunk.js.LICENSE.txt",
+    "static/media/image.9e5d4fc7.png": "/reactcoronaapp/static/media/image.9e5d4fc7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b00e73e.js",
+    "static/js/2.1a6b6f3e.chunk.js",
+    "static/css/main.66298ed0.chunk.css",
+    "static/js/main.f8945795.chunk.js"
+  ]
+}
